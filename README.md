@@ -8,7 +8,7 @@ I'm a passionate React and Next.js developer, continuously exploring new technol
 ## 🚀 About Me
 
 - 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning [Next]
+- 🌱 I’m currently learning "Next"
 - 👯 I’m looking to collaborate on Next projects
 - 💬 Ask me about React, Next.js, JavaScript, and Web Development
 - 📫 How to reach me: bronsteinjule@gmail.com
@@ -25,7 +25,6 @@ I'm a passionate React and Next.js developer, continuously exploring new technol
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliebronstein&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliebronstein&layout=compact&theme=radical)
-### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliebronstein&theme=dark" width="48%" >
 <img src="https://myreadme.vercel.app/api/embed/juliebronstein?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
