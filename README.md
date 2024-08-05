@@ -37,12 +37,12 @@ Here are a few projects I've been working on:
 ## 📫 Contact Me
 
 - **Email:** bronsteinjule@gmail.com
-- **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/jule-bronstein)
+- **LinkedIn:** [My LinkedIn](www.linkedin.com/in/jule-bronstein)
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory-Leak]([https://yourblog.com/post1](https://www.linkedin.com/feed/update/urn:li:activity:7222203423905984512/))
+- [Memory-Leak](https://www.linkedin.com/feed/update/urn:li:activity:7222203423905984512/)
 - [Use-Memo](https://www.linkedin.com/feed/update/urn:li:activity:7130305230809788418?utm_source=share&utm_medium=member_desktop)
 - [Refresh-F5](https://www.linkedin.com/posts/jule-bronstein_programming-junior-feature-activity-7128674655028043777-bGPE?utm_source=share&utm_medium=member_desktop)
 <!-- BLOG-POST-LIST:END -->
@@ -54,7 +54,8 @@ Here are a few projects I've been working on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![REact-Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
+![REact-Router](https://img.shields.io/badge/React%20Route-0078d7?style=for-the-badge&logo=react-router%20studio%20code&logoColor=white)
+
 
 ## 📊 Weekly Development Breakdown
 
