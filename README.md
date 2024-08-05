@@ -49,7 +49,7 @@ Here are a few projects I've been working on:
 
 ## ⚙️ Tools and Technologies
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=%23900C3F )
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,7 +59,9 @@ Here are a few projects I've been working on:
 ![Boostrap](https://img.shields.io/badge/Boostrap-t?style=for-the-badge&logo=Bootstrap&color=rgb(199%2C%2021%2C%20133)&link=https%3A%2F%2Freact-bootstrap.netlify.app%2F)
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-css?style=for-the-badge&logo=TailwindCSS&color=rgb(139%2C%200%2C%20139))
-![TailWind CSS](https://img.shields.io/badge/-Formik-css?style=for-the-badge&logo=Formik&color=%234682B4)
+![Formik](https://img.shields.io/badge/-Formik-react?style=for-the-badge&logo=Formik&color=%234682B4)
+![NPM](https://img.shields.io/badge/-NPM-NPM?style=for-the-badge&logo=NPM&color=%23B0C4DE )
+![Redux](https://img.shields.io/badge/-REDUX-React?style=for-the-badge&logo=Redux&color=%23BC8F8F )
 
 
 
