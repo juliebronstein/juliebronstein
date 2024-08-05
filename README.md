@@ -1,6 +1,6 @@
 # Hi there, I'm juliebronstein 👋
 
-![GitHub followers](https://img.shields.io/badge/-ReacJS-blue?logo=react)
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
 ![https://www.linkedin.com/in/jule-bronstein/](https://img.shields.io/badge/linkdin-julebronstein-blue)
 
 I'm a passionate React and Next.js developer, continuously exploring new technologies and improving my skills.
@@ -9,16 +9,16 @@ I'm a passionate React and Next.js developer, continuously exploring new technol
 
 - 🔭 I’m currently working on my own project
 - 🌱 I’m currently learning [Next]
-- 👯 I’m looking to collaborate on [e-comerce ]
+- 👯 I’m looking to collaborate on Next projects
 - 💬 Ask me about React, Next.js, JavaScript, and Web Development
-- 📫 How to reach me: your.email@example.com
-- ⚡ Fun fact: [Interesting Fact About You]
+- 📫 How to reach me: bronsteinjule@gmail.com
+- ⚡ Fun fact: Webdevelop!
 
 ## 🛠️ Skills
 
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, Next.js, Node.js
-- **Tools:** Git, Webpack, Babel, ESLint, Prettier
+- **Frameworks/Libraries:** React, Next.js
+- **Tools:** Git, Tauri, Bootstrap, Tailwind,
 - **Databases:** MongoDB, PostgreSQL
 
 ## 📈 GitHub Stats
@@ -36,16 +36,15 @@ Here are a few projects I've been working on:
 
 ## 📫 Contact Me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-username)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email:** bronsteinjule@gmail.com
+- **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/jule-bronstein)
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Post 1 Title](https://yourblog.com/post1)
-- [Post 2 Title](https://yourblog.com/post2)
-- [Post 3 Title](https://yourblog.com/post3)
+- [Next-Memory-Leaks]([https://yourblog.com/post1](https://www.linkedin.com/feed/update/urn:li:activity:7222203423905984512/))
+- [Use-memo](https://www.linkedin.com/feed/update/urn:li:activity:7130305230809788418?utm_source=share&utm_medium=member_desktop)
+- [Refresh-F5](https://www.linkedin.com/posts/jule-bronstein_programming-junior-feature-activity-7128674655028043777-bGPE?utm_source=share&utm_medium=member_desktop)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚙️ Tools and Technologies
