@@ -1,9 +1,9 @@
 # Hi there, I'm juliebronstein 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/juliebronstein?style=social)
 ![https://www.linkedin.com/in/jule-bronstein/](https://img.shields.io/badge/linkdin-jule%20bronstein-orange)
 
-I'm a passionate React and Next.js developer, continuously exploring new technologies and improving my skills.
+I'm a skilled React and Next developer with 3+ years of experience in building responsive, user-friendly web applications. I specialize in developing reusable components and implementing efficient state management using Redux and Redux Toolkit. My expertise also includes using popular libraries like React Router Dom, Axios, Bootstrap and Tailwind to create dynamic and visually appealing interfaces. I'm committed to delivering high-quality code and ensuring client satisfaction. Let's work together to bring your ideas to life"
 
 ## 🚀 About Me
 
