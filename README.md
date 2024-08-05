@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm juliebronstein 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)
+![Twitter Follow](https://img.shields.io/badge/linkdin-julebronstein-blue)
 
 I'm a passionate React and Next.js developer, continuously exploring new technologies and improving my skills.
 
