@@ -1,7 +1,7 @@
 # Hi there, I'm juliebronstein 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
-![https://www.linkedin.com/in/jule-bronstein/](https://img.shields.io/badge/linkdin-julebronstein-blue)
+![https://www.linkedin.com/in/jule-bronstein/](https://img.shields.io/badge/linkdin-jule%20bronstein-orange)
 
 I'm a passionate React and Next.js developer, continuously exploring new technologies and improving my skills.
 
