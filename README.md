@@ -54,7 +54,7 @@ Here are a few projects I've been working on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![REact-Router](https://img.shields.io/badge/React%20Route-0078d7?style=for-the-badge&logo=react-router%20studio%20code&logoColor=white)
+![REact-Router](https://img.shields.io/badge/React%20Router?logo=ReactRouter&logoColor=purpel)
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 
 
