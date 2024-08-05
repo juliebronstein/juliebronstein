@@ -43,7 +43,7 @@ Here are a few projects I've been working on:
 ## 📫 Contact Me
 
 - **Email:** bronsteinjule@gmail.com
-- **LinkedIn:** [My LinkedIn](www.linkedin.com/in/jule-bronstein)
+- **LinkedIn:** [Jule bronstein](www.linkedin.com/in/jule-bronstein)
 
 ## 📝 Latest Blog Posts
 
