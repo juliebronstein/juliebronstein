@@ -7,9 +7,9 @@ I'm a passionate React and Next.js developer, continuously exploring new technol
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Project](https://github.com/your-username/your-project)
-- 🌱 I’m currently learning [New Technology or Skill]
-- 👯 I’m looking to collaborate on [Project Type or Name]
+- 🔭 I’m currently working on my own project
+- 🌱 I’m currently learning [Next]
+- 👯 I’m looking to collaborate on [e-comerce ]
 - 💬 Ask me about React, Next.js, JavaScript, and Web Development
 - 📫 How to reach me: your.email@example.com
 - ⚡ Fun fact: [Interesting Fact About You]
