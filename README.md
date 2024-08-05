@@ -77,7 +77,8 @@ Here are a few projects I've been working on:
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?juliebronstein=your-username&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=juliebronstein&theme=radical)
+
 <!--
 ## ✨ Open Source Contributions
 
