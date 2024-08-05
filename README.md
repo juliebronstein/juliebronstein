@@ -58,7 +58,7 @@ Here are a few projects I've been working on:
 ![Mongo DB](https://img.shields.io/badge/-Mongo%DB-blue?style=for-the-badge&logo=MongoDB)
 ![Boostrap](https://img.shields.io/badge/Boostrap-t?style=for-the-badge&logo=Bootstrap&color=rgb(199%2C%2021%2C%20133)&link=https%3A%2F%2Freact-bootstrap.netlify.app%2F)
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
-![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS?style=for-the-badge&logo=TailwindCSS&color=rgb(139%2C%200%2C%20139))
+![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-css?style=for-the-badge&logo=TailwindCSS&color=rgb(139%2C%200%2C%20139))
 
 https://img.shields.io/badge/react-blue?logo=ReactRouter&logoColor=purpel
 
