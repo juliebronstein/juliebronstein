@@ -24,10 +24,12 @@ I'm a passionate React and Next.js developer, continuously exploring new technol
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliebronstein&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliebronstein&layout=compact&theme=radical)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliebronstein&theme=dark" width="48%" >
 <img src="https://myreadme.vercel.app/api/embed/juliebronstein?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!--
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliebronstein&layout=compact&theme=radical)
+-->
 
 ## 📂 Projects
 
