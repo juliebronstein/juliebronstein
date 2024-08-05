@@ -56,7 +56,7 @@ Here are a few projects I've been working on:
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![React-Router](https://img.shields.io/badge/-React%20Router-pink?style=for-the-badge&logo=ReactRouter&logoColor=purpel)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%DB-blue?style=for-the-badge&logo=MongoDB)
-![Mongo DB](https://img.shields.io/badge/Bootstrap-MediumVioletRed?style=for-the-badge&logo=Bootstrap)
+![Boostrap](https://img.shields.io/badge/Boostrap-t?style=for-the-badge&logo=Bootstrap&color=rgb(199%2C%2021%2C%20133)&link=https%3A%2F%2Freact-bootstrap.netlify.app%2F)
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 
 https://img.shields.io/badge/react-blue?logo=ReactRouter&logoColor=purpel
