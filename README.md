@@ -1,8 +1,8 @@
 # Hi there, I'm juliebronstein 👋
-
+<!--
 ![GitHub followers](https://img.shields.io/github/followers/juliebronstein?style=social)
 ![https://www.linkedin.com/in/jule-bronstein/](https://img.shields.io/badge/linkdin-jule%20bronstein-orange)
-
+-->
 I'm a skilled React and Next developer with 3+ years of experience in building responsive, user-friendly web applications. I specialize in developing reusable components and implementing efficient state management using Redux and Redux Toolkit. My expertise also includes using popular libraries like React Router Dom, Axios, Bootstrap and Tailwind to create dynamic and visually appealing interfaces. I'm committed to delivering high-quality code and ensuring client satisfaction. Let's work together to bring your ideas to life"
 
 ## 🚀 About Me
@@ -35,9 +35,10 @@ I'm a skilled React and Next developer with 3+ years of experience in building r
 
 Here are a few projects I've been working on:
 
-- [Project 1](https://github.com/your-username/project-1): Brief description of project 1.
-- [Project 2](https://github.com/your-username/project-2): Brief description of project 2.
-- [Project 3](https://github.com/your-username/project-3): Brief description of project 3.
+- [TaskManeager](https://github.com/juliebronstein/TaskManager): Explore the functionality of a basic To-Do List app with my Simple To-Do List Sample. This project serves as a hands-on demonstration of how to create a responsive to-do list using Firebase for data management. It's an ideal starting point for those looking to learn and experiment with web development and Firebase integration.
+- [Footbal-KitStrore](https://github.com/juliebronstein/react-football-kit-store):Welcome to the Football Kit Store project! This repository contains a sample web application that demonstrates the functionality of an e-commerce platform for football kits. The project showcases how to create a responsive and interactive online store using modern web development technologies.
+- [ChatApp](https://github.com/juliebronstein/ChatApp): Explore the world of seamless communication with my Modern Chat App, built using React for a smooth user experience and styled with CSS and Bootstrap for a sleek and user-friendly design. This chat application is powered by Firebase, ensuring real-time data synchronization and secure messaging.
+.
 
 ## 📫 Contact Me
 
