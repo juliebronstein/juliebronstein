@@ -55,12 +55,11 @@ Here are a few projects I've been working on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=%23335251)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&color=%23195652)
 ![React-Router](https://img.shields.io/badge/-React%20Router-pink?style=for-the-badge&logo=ReactRouter&color=%231b867d)
-![Mongo DB](https://img.shields.io/badge/-Mongo%DB-blue?style=for-the-badge&logo=MongoDB)
-![Boostrap](https://img.shields.io/badge/Boostrap-t?style=for-the-badge&logo=Bootstrap&color=rgb(199%2C%2021%2C%20133)&link=https%3A%2F%2Freact-bootstrap.netlify.app%2F)
+![Mongo DB](https://img.shields.io/badge/-Mongo%DB-blue?style=for-the-badge&logo=MongoDB&color=%2325a79a)
+![Boostrap](https://img.shields.io/badge/Boostrap-t?style=for-the-badge&logo=Bootstrap&color=%233ec3b3&link=https%3A%2F%2Freact-bootstrap.netlify.app%2F)
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ![TailWind CSS](https://img.shields.io/badge/-Tailwind%20CSS-css?style=for-the-badge&logo=TailwindCSS&color=rgb(139%2C%200%2C%20139))
 
-https://img.shields.io/badge/react-blue?logo=ReactRouter&logoColor=purpel
 
 ## 📊 Weekly Development Breakdown
 
