@@ -42,8 +42,8 @@ Here are a few projects I've been working on:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Next-Memory-Leaks]([https://yourblog.com/post1](https://www.linkedin.com/feed/update/urn:li:activity:7222203423905984512/))
-- [Use-memo](https://www.linkedin.com/feed/update/urn:li:activity:7130305230809788418?utm_source=share&utm_medium=member_desktop)
+- [Memory-Leak]([https://yourblog.com/post1](https://www.linkedin.com/feed/update/urn:li:activity:7222203423905984512/))
+- [Use-Memo](https://www.linkedin.com/feed/update/urn:li:activity:7130305230809788418?utm_source=share&utm_medium=member_desktop)
 - [Refresh-F5](https://www.linkedin.com/posts/jule-bronstein_programming-junior-feature-activity-7128674655028043777-bGPE?utm_source=share&utm_medium=member_desktop)
 <!-- BLOG-POST-LIST:END -->
 
@@ -52,9 +52,9 @@ Here are a few projects I've been working on:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![REact-Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router)
 
 ## 📊 Weekly Development Breakdown
 
